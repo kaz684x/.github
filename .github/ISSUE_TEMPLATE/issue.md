@@ -1,5 +1,5 @@
 ---
-name: 🚨 トラブル・課題 (Issue)
+name: 🚨 トラブル・課題 (My Issue)
 about: 発生した問題やトラブル、改善が必要な点を報告します
 title: '[Issue] '
 labels: bug
